@@ -1,4 +1,8 @@
 Framework Requirement: .Net core 3.1
+Language: C#
+
+Development Tool: Visual Studio 2019
+
 Test cases:
 Assignment is the main project folder, Assignment.Test is the test project in which I have performed following testing as part of unit testing requirement. 
 1.	AddCatalogAMustPass – To add item in the catalog A
