@@ -15,7 +15,6 @@ namespace Assignment.Service
         {
             try
             {
-                string msg = "";
                 var barcodesA = File.ReadAllLines($"input\\barcodesA.csv")
                                      .Skip(1) // To remove the header text 
                                      .Select(v => SupplierProductBarcode.FromCsv(v))

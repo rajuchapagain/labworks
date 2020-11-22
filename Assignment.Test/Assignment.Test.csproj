@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\input\barcodesA.csv" />
+    <None Include="bin\Debug\netcoreapp3.1\input\barcodesB.csv" />
+    <None Include="bin\Debug\netcoreapp3.1\input\catalogA.csv" />
+    <None Include="bin\Debug\netcoreapp3.1\input\catalogB.csv" />
+    <None Include="bin\Debug\netcoreapp3.1\input\suppliersA.csv" />
+    <None Include="bin\Debug\netcoreapp3.1\input\suppliersB.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="nunit" Version="3.12.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.15.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
