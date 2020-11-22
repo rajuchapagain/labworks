@@ -12,7 +12,6 @@
     <None Include="bin\Debug\netcoreapp3.1\input\catalogB.csv" />
     <None Include="bin\Debug\netcoreapp3.1\input\suppliersA.csv" />
     <None Include="bin\Debug\netcoreapp3.1\input\suppliersB.csv" />
-    <None Include="bin\Debug\netcoreapp3.1\output\result_output.csv" />
   </ItemGroup>
 
 </Project>
